@@ -1,10 +1,9 @@
 <?php
-
 /*
 Plugin Name: OG
 Plugin URI: http://iworks.pl/
 Description: Very tiny Open Graph plugin - add featured image as facebook image.
-Version: 2.1
+Version: 2.2
 Author: Marcin Pietrzak
 Author URI: http://iworks.pl/
 License: GNU GPL
@@ -138,6 +137,12 @@ if ( !class_exists( 'iWorks_Simple_Facebook_Open_Graph' ) ) {
                 $og['og']['description'] = esc_attr( get_bloginfo( 'description' ) );
                 $og['og']['title'] = esc_attr( get_bloginfo( 'title' ) );
                 $og['og']['url'] = home_url();
+                /**
+                 * get site icon
+                 */
+                if ( function_exists('get_site_icon_url') ) {
+                    $og['og']['image'] = get_site_icon_url();
+                }
             }
             if ( mb_strlen( $og['og']['description'] ) > 300 ) {
                 $og['og']['description'] = mb_substr( $og['og']['description'], 0, 400 );

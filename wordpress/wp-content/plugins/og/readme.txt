@@ -3,8 +3,8 @@ Contributors: iworks
 Donate link: http://iworks.pl/donate/og.php
 Tags: open graph, facebook, social, thumbnail, feature image, og, open graph, fb, meta, share, 
 Requires at least: 3.3
-Tested up to: 4.2.2
-Stable tag: 2.1
+Tested up to: 4.3
+Stable tag: 2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,6 +45,12 @@ The Facebook Open Graph Tags that this plugin inserts are:
 3. Pligin do not have any configuration - simple it works.
 
 == Frequently Asked Questions ==
+
+= I installed OG and ... nothing happen! =
+
+Please be patient, sometime you need more a day to see results. Reason
+of this is cache on Facebook. But check your plugins too and if you use
+and caching plugins, try do "flush cache" on your site.
 
 = How to filter values? =
 
@@ -120,6 +126,10 @@ Use filter "og_image_init":
 
 
 == Changelog ==
+
+= 2.2 (2015-08-19) =
+
+* IMPROVEMENT: add the site icon as og:image for home page.
 
 = 2.1 (2015-05-21) =
 
