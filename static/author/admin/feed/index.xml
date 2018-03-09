@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PHPConf.Asia  admin</title>
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The First Pan-Asian PHP conference!</description>
+	<lastBuildDate>Fri, 09 Mar 2018 15:07:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3</generator>
+	<item>
+		<title>Introducing our closing keynote speaker: Jenny Wong</title>
+		<link>/2015/08/introducing-our-closing-keynote-speaker-jenny-wong/</link>
+		<comments>/2015/08/introducing-our-closing-keynote-speaker-jenny-wong/#comments</comments>
+		<pubDate>Sat, 22 Aug 2015 07:07:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=329</guid>
+		<description><![CDATA[Jenny is a Community Engineer at Human Made. Her love for development goes beyond the screen &#38; she is an advocate for both the PHP and WordPress communities. As a speaker, community event organiser and PHP Women evangelist, you can usually find her loudly cheering people on to share knowledge &#38; contribute back to their communities.]]></description>
+				<content:encoded><![CDATA[<p><img src='/wp-content/uploads/2015/08/miss_jwo1.png'></p>		<!-- module_row -->
+		<div class="themify_builder_content-323 themify_builder">
+		<div class="module_row module_row_0 clearfix">
+			<div class="row_inner_wrapper">
+
+				<div class="row_inner">
+
+					
+					
+					<div class="col-full first">
+						
+<!-- module image -->
+<div id="image-323-0-0-1" class="module module-image image-323-0-0-1 bordered circle image-center  ">
+	
+	
+	
+	<div class="image-wrap">
+					<img src="/wp-content/uploads/2015/08/miss_jwo-300x300.png" width="300" height="300" alt="Introducing our closing keynote speaker: Jenny Wong" />			
+		</div>
+	<!-- /image-wrap -->
+		
+	
+	
+	</div>
+<!-- /module image --><style>.themify_builder .image-323-0-0-1.module-image .image-content {  } 
+.themify_builder .image-323-0-0-1.module-image .image-title {  } 
+.themify_builder .image-323-0-0-1.module-image .image-title a {  } 
+</style>
+
+<!-- module text -->
+<div id="text-323-0-0-2" class="module module-text text-323-0-0-2   ">
+	
+		
+	<h4>Jenny Wong</h4>
+	</div>
+<!-- /module text --><style>.themify_builder .text-323-0-0-2.module-text { text-align: center; padding-bottom: 0px; margin-bottom: 0px;  } 
+</style>
+
+<!-- module text -->
+<div id="text-323-0-0-3" class="module module-text text-323-0-0-3   ">
+	
+		
+	<h6>Keynote Speaker<br /> <a href="https://twitter.com/miss_jwo" target="_blank">@miss_jwo</a></h6>
+	</div>
+<!-- /module text --><style>.themify_builder .text-323-0-0-3.module-text { text-align: center;  } 
+</style>
+					</div>
+					<!-- /col -->
+										
+					
+				</div>
+				<!-- /row_inner -->
+			</div>
+		</div>
+		<!-- /module_row -->
+	</div>
+
+		<!-- module_row -->
+		<div class="themify_builder_content-323 themify_builder">
+		<div class="module_row module_row_1 clearfix">
+			<div class="row_inner_wrapper">
+
+				<div class="row_inner">
+
+					
+										
+					
+				</div>
+				<!-- /row_inner -->
+			</div>
+		</div>
+		<!-- /module_row -->
+	</div>
+
+	
+<p>Jenny is a Community Engineer at <a href="http://hmn.md/" target="_blank">Human Made</a>. Her love for development goes beyond the screen &amp; she is an advocate for both the PHP and WordPress communities.</p>
+<p>As a speaker, community event organiser and PHP Women evangelist, you can usually find her loudly cheering people on to share knowledge &amp; contribute back to their communities.</p>
+<div id="themify_builder_content-329" data-postid="329" class="themify_builder_content themify_builder_content-329 themify_builder themify_builder_front">
+	</div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			<wfw:commentRss>/2015/08/introducing-our-closing-keynote-speaker-jenny-wong/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Early Bird tickets available now!</title>
+		<link>/2015/08/early-bird-tickets-available-now/</link>
+		<comments>/2015/08/early-bird-tickets-available-now/#comments</comments>
+		<pubDate>Mon, 17 Aug 2015 12:22:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=317</guid>
+		<description><![CDATA[PHPConf.Asia is happening on 22 &#38; 23 September at NUSS Kent Ridge Guild House. Get your tickets today! Find out more about the speakers.]]></description>
+				<content:encoded><![CDATA[<p><img src='/wp-content/uploads/2015/05/bg3.jpg'></p><p>PHPConf.Asia is happening on 22 &amp; 23 September at <a href="http://www.nuss.org.sg/kent-ridge/27" target="_blank">NUSS Kent Ridge Guild House</a>. Get your <a href="https://phpconfasia.codecraft.com.sg/" target="_blank">tickets</a> today!</p>
+<p>Find out more about the <a href="/#speakers">speakers</a>.</p>
+<div id="themify_builder_content-317" data-postid="317" class="themify_builder_content themify_builder_content-317 themify_builder themify_builder_front">
+	</div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			<wfw:commentRss>/2015/08/early-bird-tickets-available-now/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>PHPConf.Asia adopts a Code of Conduct</title>
+		<link>/2015/08/phpconf-asia-endorses-a-code-of-conduct/</link>
+		<comments>/2015/08/phpconf-asia-endorses-a-code-of-conduct/#comments</comments>
+		<pubDate>Sun, 09 Aug 2015 14:36:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=291</guid>
+		<description><![CDATA[We are pleased to publish our official Code of Conduct for all attendees, exhibitors and all our conference staff. Our Code of Conduct is adapted from PyCon Code of Conduct and the GeekFeminism.org Code of Conduct. In it, we detail our definition of harassment, methods of reporting, appropriate response from our staff and participants and also the consequences (if any). [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>We are pleased to publish our official <a href="/code-of-conduct/">Code of Conduct</a> for all attendees, exhibitors and all our conference staff. Our Code of Conduct is adapted from <a href="https://github.com/python/pycon-code-of-conduct" target="_blank">PyCon Code of Conduct</a> and the <a href="http://geekfeminism.org/about/code-of-conduct/" target="_blank">GeekFeminism.org Code of Conduct</a>.</p>
+<p>In it, we detail our definition of harassment, methods of reporting, appropriate response from our staff and participants and also the consequences (if any).</p>
+<p>Do feel free to send us your comment or provide us feedback at <a href="mailto:admin@phpconf.asia">admin@phpconf.asia</a>.</p>
+<div id="themify_builder_content-291" data-postid="291" class="themify_builder_content themify_builder_content-291 themify_builder themify_builder_front">
+	</div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			<wfw:commentRss>/2015/08/phpconf-asia-endorses-a-code-of-conduct/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>We support Bitcoin!</title>
+		<link>/2015/08/we-support-bitcoin-now/</link>
+		<comments>/2015/08/we-support-bitcoin-now/#comments</comments>
+		<pubDate>Fri, 07 Aug 2015 09:25:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=135</guid>
+		<description><![CDATA[So we just added support for payment of conference ticket via bitcoin. However, due to the extra administrative work needed to support Bitcoin, we are only accepting payment in a fixed denomination (BTC 0.80). Here&#8217;s the deep link to the payment page: https://phpconfasia.codecraft.com.sg/?code=btcpayment]]></description>
+				<content:encoded><![CDATA[<p><img src='/wp-content/uploads/2015/08/phpcinfasia-accepts-bitcoin.png'></p><p>So we just added support for payment of conference ticket via bitcoin.</p>
+<p>However, due to the extra administrative work needed to support Bitcoin, we are only accepting payment in a fixed denomination (BTC 0.80).</p>
+<p>Here&#8217;s the deep link to the payment page: <a href="https://phpconfasia.codecraft.com.sg/?code=btcpayment">https://phpconfasia.codecraft.com.sg/?code=btcpayment</a></p>
+<div id="themify_builder_content-135" data-postid="135" class="themify_builder_content themify_builder_content-135 themify_builder themify_builder_front">
+	</div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			<wfw:commentRss>/2015/08/we-support-bitcoin-now/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tickets available now! Get your Super Early Bird Tickets today! Venue confirmed too!</title>
+		<link>/2015/07/tickets-available-now-get-your-super-early-bird-tickets-today-venue-confirmed-too/</link>
+		<comments>/2015/07/tickets-available-now-get-your-super-early-bird-tickets-today-venue-confirmed-too/#comments</comments>
+		<pubDate>Fri, 31 Jul 2015 05:41:58 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Announcements]]></category>
+
+		<guid isPermaLink="false">/?p=77</guid>
+		<description><![CDATA[PHPConf.Asia is happening on 22 &#38; 23 September at NUSS Kent Ridge Guild House. Get your tickets today! PS: Speakers will be confirmed soon.]]></description>
+				<content:encoded><![CDATA[<p><img src='/wp-content/uploads/2015/05/krgh_facade_day.jpg'></p><p>PHPConf.Asia is happening on 22 &amp; 23 September at <a href="http://www.nuss.org.sg/kent-ridge/27" target="_blank">NUSS Kent Ridge Guild House</a>. Get your <a href="https://phpconfasia.codecraft.com.sg/" target="_blank">tickets</a> today!</p>
+<p>PS: Speakers will be confirmed soon.</p>
+<div id="themify_builder_content-77" data-postid="77" class="themify_builder_content themify_builder_content-77 themify_builder themify_builder_front">
+	</div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			<wfw:commentRss>/2015/07/tickets-available-now-get-your-super-early-bird-tickets-today-venue-confirmed-too/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Launch of CFP &#038; Change of Conference Dates</title>
+		<link>/2015/06/launch-of-cfp-change-of-conference-dates/</link>
+		<comments>/2015/06/launch-of-cfp-change-of-conference-dates/#comments</comments>
+		<pubDate>Mon, 01 Jun 2015 15:48:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Announcements]]></category>
+
+		<guid isPermaLink="false">http://wp.phpconf.asia/?p=41</guid>
+		<description><![CDATA[Launch of CFP We are proud to announce the opening of the CFP. You may submit your CFP here. The talk formats are as follows: 45 minute talks. 15 minute lightning talks. We are looking for talks of various levels &#8211; beginners, intermediate and advanced. Thematically, you could focus on one of the following keywords: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img src='http://wp.phpconf.asia/wp-content/uploads/2015/05/logo_web.png'></p><h3>Launch of CFP</h3>
+<p>We are proud to announce the opening of the CFP. You may <a href="http://bit.ly/phpconfasia2015-cfp" target="_blank">submit your CFP here</a>.</p>
+<p>The talk formats are as follows:</p>
+<ul>
+<li>45 minute talks.</li>
+<li>15 minute lightning talks.</li>
+</ul>
+<p>We are looking for talks of various levels &#8211; beginners, intermediate and advanced.</p>
+<p>Thematically, you could focus on one of the following keywords: web development, front-end development, backend development, DevOps, big data, enterprise applications, Internet of Things, frameworks, advanced OOP, TDD, BDD, agile methodologies, disruptive technologies, robotics, etc.</p>
+<p>Closing date for CFP submission is 15 July 2015.</p>
+<hr />
+<h3>Change of Conference Dates</h3>
+<p>The conference dates will be rescheduled to 22 and 23 September 2015.</p>
+<p>This is due to one of the previous dates (24th) coinciding with a Singapore public / religious holiday (<a href="http://eresources.nlb.gov.sg/infopedia/articles/SIP_694__2009-01-02.html" target="_blank">Hari Raya Haji</a>).</p>
+<p>We apologise for the inconvenience this news might have brought to some folks. <img src="/wp-includes/images/smilies/frownie.png" alt=":(" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div id="themify_builder_content-41" data-postid="41" class="themify_builder_content themify_builder_content-41 themify_builder themify_builder_front">
+	</div>
+<!-- /themify_builder_content -->]]></content:encoded>
+			<wfw:commentRss>/2015/06/launch-of-cfp-change-of-conference-dates/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
